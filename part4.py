@@ -1,0 +1,8 @@
+print("Hello")
+print("Hello,Learn \n With Motaleb")
+print("Hello, \' World")
+print("Helllo, \"Motaleb")
+print("Hello Motlaebv\t I Love Bangldesh")
+print("This is motlaeb \r sonia akter")
+print("Motaleboo")
+print("nila/xhh")
